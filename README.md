@@ -44,8 +44,12 @@ git clone https://github.com/cyberghosts02/ghosts-database.pk.git
 
 cd ghosts-database.pk
 
-### 2. Install the Requirements
-pip install -r requirements.txt
+ls
+
+chmod +x ghosts-database.pk.py
+
+ls
+
 
 
 ### 3. Run the Script
